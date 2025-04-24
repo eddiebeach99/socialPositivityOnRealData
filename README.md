@@ -5,7 +5,7 @@ This folder contains all necessary code to preprocess the raw review datasets in
 - Outputting ready-to-use data for the simulations
 
 ### `simulation/`
-1. **Bandit Identification:** Selects 50 bandits items per dataset based on reward gaps and filtering criteria.
+1. **Bandit Identification:** Selects 50 bandits per dataset based on reward gaps and filtering criteria.
 2. **Agent Simulations:** Runs agents with varying learning biases in different environments.
 
 ### `analysis/`
