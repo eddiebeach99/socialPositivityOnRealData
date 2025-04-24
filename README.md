@@ -13,6 +13,6 @@ This folder contains all necessary code to preprocess the raw review datasets in
 ### `analysis/`
 Contains scripts for:
 - Visualizing simulation results
-- Analyzing bandit characteristics
+- Bandit analysis
 - Creating all figures and plots used in the lab report
 
