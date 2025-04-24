@@ -6,7 +6,8 @@ This folder contains all necessary code to preprocess the raw review datasets in
 
 ### `simulation/`
 1. **Bandit Identification:** Selects 50 bandits per dataset based on reward gaps and filtering criteria.
-2. **Agent Simulations:** Runs agents with varying learning biases in different environments.
+2. **Agent Simulations:** Runs agents with varying learning biases in different environments for each dataset.
+(Both are contained in the modelSim python file)
 
 ### `analysis/`
 Contains scripts for:
